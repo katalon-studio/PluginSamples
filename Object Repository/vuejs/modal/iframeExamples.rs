@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframeExamples</name>
+   <tag></tag>
+   <elementGuidId>29e3a8a4-b0ac-4cec-8d98-c0485e78aa44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//iframe[contains(@src, 'https://jsfiddle.net/yyx990803/mwLbw11k/embedded/result,html,js,css')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://jsfiddle.net/yyx990803/mwLbw11k/embedded/result,html,js,css</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+   </webElementProperties>
+</WebElementEntity>
